@@ -1,0 +1,1 @@
+# Package-Structure-ict.22.ClassNames.-Use-static-instance
